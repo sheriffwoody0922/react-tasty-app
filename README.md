@@ -54,7 +54,7 @@ The following technologies were used in the development of the Tasty App:
 
 To run the Tasty App on your local machine, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/AlpayC/Frontend_Abschlussprojekt_Tasty`
+1. Clone this repository: `git clone https://github.com/sheriffwoody0922/react-tasty-app.git`
 2. Navigate to the project directory: `cd tasty-app`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
@@ -85,11 +85,7 @@ We welcome contributions to the Tasty App project! If you'd like to contribute, 
 
 Special thanks to the following contributors for their hard work on this project:
 
-- [jenny-dreamatrix](https://github.com/jenny-dreamatrix) - Frontend Developer & Git Master
-- [Lis-art](https://github.com/Lis-art) - Trellomaster & Frontend Developer
-- [SarahBehrendt](https://github.com/SarahBehrendt) - CSS Master & Frontend Developer
-- [BorisD2023](https://github.com/BorisD2023) - CSS Master & Frontend Developer
-- [AlpayC](https://github.com/AlpayC) - Frontend Developer & Feature Developer
+- [Sheriff Woody](https://github.com/sheriffwoody0922) - Frontend Developer & Git Master
 
 ## License
 
